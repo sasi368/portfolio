@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.039bf95e.css",
-    "main.js": "/portfolio/static/js/main.268aece0.js",
+    "main.css": "/portfolio/static/css/main.46961403.css",
+    "main.js": "/portfolio/static/js/main.df638e81.js",
     "static/media/HomeImg.png": "/portfolio/static/media/HomeImg.ec22f531c5882ce06c8e.png",
     "static/media/Hello.gif": "/portfolio/static/media/Hello.d93720933c608f6178fb.gif",
     "static/media/profileImage.png": "/portfolio/static/media/profileImage.c8d7d093403e3d4106cf.png",
-    "static/media/Xcode.svg": "/portfolio/static/media/Xcode.b31073315b4f7b90614ba696ddc34957.svg",
+    "static/media/Xcode.svg": "/portfolio/static/media/Xcode.e01f9dc984dc8fb67ea0bda82ee3152b.svg",
     "static/media/android.svg": "/portfolio/static/media/android.7e6bfa77208a3a3ec1f665de3d9c4c8f.svg",
-    "static/media/node-icon.svg": "/portfolio/static/media/node-icon.3dc364b8e9beb3561620274aea4f0844.svg",
-    "static/media/typescript-icon.svg": "/portfolio/static/media/typescript-icon.17d5e87eac2c9d1dc722ce1e0b60d5df.svg",
+    "static/media/node-icon.svg": "/portfolio/static/media/node-icon.cc3d45a160579a330a5c17cc2c8f1407.svg",
+    "static/media/typescript-icon.svg": "/portfolio/static/media/typescript-icon.f3bc0fd998dea6b1266965436af97a49.svg",
     "static/media/whatsapp.svg": "/portfolio/static/media/whatsapp.459dad86534ca5699520ed770f3ce605.svg",
-    "static/media/react-icon.svg": "/portfolio/static/media/react-icon.f1484e295933af0e748d6a01b05a8361.svg",
+    "static/media/react-icon.svg": "/portfolio/static/media/react-icon.a010f287ea79ad0673b610a223faa951.svg",
     "static/media/ios.svg": "/portfolio/static/media/ios.2df2f842243651b0063fd27c4d18a35d.svg",
     "static/media/kotlin.svg": "/portfolio/static/media/kotlin.fee1f301ebc9dc2921b41f5900994c4f.svg",
     "index.html": "/portfolio/index.html",
@@ -18,22 +18,22 @@
     "static/media/telegram.svg": "/portfolio/static/media/telegram.45bf2371ee6528cc27d66c08f8e43356.svg",
     "static/media/playstore.svg": "/portfolio/static/media/playstore.7660dcd6b3b40be498aec2dcd032a4cf.svg",
     "static/media/apple.svg": "/portfolio/static/media/apple.f701ed2e27354acb6db5aa8f32fbd310.svg",
-    "static/media/phone-icon.svg": "/portfolio/static/media/phone-icon.91617f27ac814ef5f29b533ab3d256ec.svg",
-    "static/media/applewhite.svg": "/portfolio/static/media/applewhite.f7467a91a2b085c17719520fd4dddf53.svg",
+    "static/media/phone-icon.svg": "/portfolio/static/media/phone-icon.fc7195139d684fa2f6bb03b8b9816095.svg",
+    "static/media/applewhite.svg": "/portfolio/static/media/applewhite.44f57aad58e972c782e05f7dff804cce.svg",
     "static/media/github.svg": "/portfolio/static/media/github.d344c0fc70ddfb6de253ddc40adcb086.svg",
-    "static/media/email-icon.svg": "/portfolio/static/media/email-icon.a83578f914460e952501546655b76165.svg",
-    "static/media/external-link.svg": "/portfolio/static/media/external-link.74ce2401d684101cc83125c6dac8ce9c.svg",
+    "static/media/email-icon.svg": "/portfolio/static/media/email-icon.a5dd245e834641e729e77e40309039c4.svg",
+    "static/media/external-link.svg": "/portfolio/static/media/external-link.8ce0d189635b118259ec51d8c9b4a1d0.svg",
     "static/media/angular.svg": "/portfolio/static/media/angular.731e1535babc4225f9deaa9108718461.svg",
-    "static/media/html-icon.svg": "/portfolio/static/media/html-icon.ebfc51e406097a90691ab82f1aa72db3.svg",
-    "static/media/css-icon.svg": "/portfolio/static/media/css-icon.60a6c50d5a470990f63ee17a3bbd9178.svg",
+    "static/media/html-icon.svg": "/portfolio/static/media/html-icon.185baee7db74b83bf22eec6a6def7644.svg",
+    "static/media/css-icon.svg": "/portfolio/static/media/css-icon.212d777ae2db63edb235490d487dc292.svg",
     "static/media/flutter.svg": "/portfolio/static/media/flutter.4b72866fcd37a05d19865118bff302c5.svg",
     "static/media/linkedin.svg": "/portfolio/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
-    "static/media/js-icon.svg": "/portfolio/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
-    "main.039bf95e.css.map": "/portfolio/static/css/main.039bf95e.css.map",
-    "main.268aece0.js.map": "/portfolio/static/js/main.268aece0.js.map"
+    "static/media/js-icon.svg": "/portfolio/static/media/js-icon.2d25723e91c8a9e057ae447ae6a73ecb.svg",
+    "main.46961403.css.map": "/portfolio/static/css/main.46961403.css.map",
+    "main.df638e81.js.map": "/portfolio/static/js/main.df638e81.js.map"
   },
   "entrypoints": [
-    "static/css/main.039bf95e.css",
-    "static/js/main.268aece0.js"
+    "static/css/main.46961403.css",
+    "static/js/main.df638e81.js"
   ]
 }
