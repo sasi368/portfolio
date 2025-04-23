@@ -10,7 +10,7 @@ const links = {
   tech: {
     jobRole: "Mobile App Developer",
     resumeLink:
-      "https://drive.google.com/file/d/1VkSy-erZwxJ6I4P-eIzGifBiDPpvL5P7/view?usp=sharing",
+      "https://drive.google.com/file/d/1CjvMZKjzANjK_0q9R3EnGjxVaB7dKFEO/view?usp=sharing",
     noOfExperience: "3+",
     github: "https://github.com/sasi368",
   },
